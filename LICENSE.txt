@@ -1,0 +1,41 @@
+FELISS ENGINE End User License Agreement (EULA)
+Version 1.0.0 - 2025
+
+IMPORTANT: This is a legal agreement between you (the "User") and Neofilisoft regarding the use of the Feliss Engine and its associated tools, assets, and documentation ("Feliss Engine").
+
+By downloading, installing, or using Feliss Engine, you agree to be bound by the terms of this Agreement. If you do not agree, do not download, install, or use Feliss Engine.
+
+1. Grant of License
+   1.1 Neofilisoft grants you a non-exclusive, non-transferable, worldwide license to use Feliss Engine for developing interactive software, games, simulations, and tools.
+   1.2 You may distribute projects built with Feliss Engine without paying royalties, subject to Section 4.
+
+2. Restrictions
+   2.1 You may not:
+       - Modify, reverse engineer, decompile, or disassemble Feliss Engine source code, except where explicitly permitted by Neofilisoft.
+       - Redistribute Feliss Engine binaries, SDKs, or source code to third parties.
+       - Use Feliss Engine for malicious, illegal, or unethical purposes.
+
+3. Source Code Access
+   3.1 Feliss Engine source code is proprietary. Access may be granted under separate agreements with Neofilisoft.
+   3.2 Community contributions are accepted under terms defined by Neofilisoft, without transferring ownership.
+
+4. Commercial Use
+   4.1 You may use Feliss Engine to develop commercial products.
+   4.2 Neofilisoft reserves the right to charge license fees or royalties for certain categories of projects exceeding revenue thresholds, defined in future agreements.
+
+5. Ownership
+   5.1 Feliss Engine and all related intellectual property remain the sole property of Neofilisoft.
+   5.2 Neofilisoft retains all rights not expressly granted.
+
+6. Disclaimer
+   6.1 Feliss Engine is provided "as is" without warranty of any kind.
+   6.2 Neofilisoft shall not be liable for any damages arising from the use or inability to use Feliss Engine.
+
+7. Termination
+   7.1 This Agreement is effective until terminated.
+   7.2 Neofilisoft may terminate this Agreement if you breach any term. Upon termination, you must cease use of Feliss Engine.
+
+8. Governing Law
+   8.1 This Agreement shall be governed by the laws of Thailand, without regard to conflict of laws principles.
+
+Copyright © 2025 ImBad / Neofilisoft. All rights reserved.
