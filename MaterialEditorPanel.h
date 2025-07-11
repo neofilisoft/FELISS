@@ -1,0 +1,1 @@
+// MaterialEditorPanel.h placeholder

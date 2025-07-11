@@ -1,0 +1,1 @@
+// PluginManager.h placeholder

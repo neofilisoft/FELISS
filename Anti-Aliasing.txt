@@ -1,0 +1,11 @@
+// Temporal Anti-Aliasing
+float4 applyTAA(float2 uv, Texture2D currentFrame, Texture2D historyBuffer) {
+    // ... TAA implementation ...
+    return filteredColor;
+}
+
+// FXAA
+float4 applyFXAA(float2 uv, Texture2D source) {
+    // ... FXAA implementation ...
+    return filteredColor;
+}

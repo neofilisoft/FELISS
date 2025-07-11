@@ -1,0 +1,16 @@
+{
+  "entities": [
+    {
+      "id": 1,
+      "name": "Rock01",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "mesh": "Assets/Meshes/Rock01.fbx",
+      "rigidbody": {
+        "mass": 20.0,
+        "isStatic": true
+      }
+    }
+  ]
+}

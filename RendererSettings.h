@@ -1,0 +1,1 @@
+// RendererSettings.h placeholder

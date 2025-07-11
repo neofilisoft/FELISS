@@ -1,0 +1,1 @@
+// SceneHierarchyPanel.h placeholder

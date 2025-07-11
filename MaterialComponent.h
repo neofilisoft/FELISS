@@ -1,0 +1,1 @@
+// MaterialComponent.h placeholder
